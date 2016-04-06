@@ -29,10 +29,10 @@
  </plugin>
  </plugins>
 </build>
-<!-- <scm>
+ <scm>
 	<connection>scm:git:git@github.com:dhanalakshmisanga/sanga.git</connection>
 		<url>scm:git:git@github.com:dhanalakshmisanga/sanga.git</url>
 			<developerConnection>scm:git:git@github.com:dhanalakshmisanga/sanga.git</developerConnection>
-</scm> -->
+</scm> 
 
 </project>			

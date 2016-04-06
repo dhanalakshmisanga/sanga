@@ -4,7 +4,6 @@
 
   <groupId>Words</groupId>
   <artifactId>Words</artifactId>
-
 <packaging>jar</packaging>
   <version>1.0</version>
   
@@ -157,5 +156,5 @@
 	<connection>scm:git:git@github.com:dhanalakshmisanga/sanga.git</connection>
 		<url>scm:git:git@github.com:dhanalakshmisanga/sanga.git</url>
 			<developerConnection>scm:git:git@github.com:dhanalakshmisanga/sanga.git</developerConnection>
-			  </scm>
-</project>
+</scm>
+</project>			

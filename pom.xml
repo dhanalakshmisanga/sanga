@@ -5,7 +5,7 @@
   <groupId>com.sonatype.blog</groupId>
   <artifactId>sonatype-srtifact</artifactId>
 <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.0_SNAPSHOT</version>
   
   <name>sonatype-artifact</name>
 
